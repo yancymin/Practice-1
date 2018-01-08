@@ -1,11 +1,4 @@
-// var isAdmin = true;
-// if (isAdmin) {
-//     console.log("tashi");
-// } else {
-//     console.log("dds")
-// }
-//
-// $('')
+
 
 var day = 3;
 switch (day) {
