@@ -13,4 +13,4 @@ switch (day) {
         break;
 }
 
-alert(day)
+alert(day);
